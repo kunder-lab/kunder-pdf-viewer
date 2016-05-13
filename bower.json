@@ -1,0 +1,13 @@
+{
+  "name": "kunder-pdf-viewer",
+  "version": "1.0.0",
+  "main": "./directives/pdfViewer.js",
+  "dependencies": {
+    "angular": "1.4.9",
+    "ionic": "driftyco/ionic-bower#1.2.4"
+  },
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/kunder-lab/kunder-pdf-viewer"
+}
+}
