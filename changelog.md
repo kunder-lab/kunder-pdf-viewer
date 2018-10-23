@@ -1,7 +1,7 @@
 ## Versión 1.0.1
 
 ### Descripción
-* Se corrige la altura de pdf
+* Se corrige la altura de pdf.
 
 ## Changelog
 6025a9bd8cc007ee7807ab8de25969cc56840190 - se arregla altura de pdf
